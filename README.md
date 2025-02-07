@@ -1,6 +1,6 @@
 # Promptopia - A Prompt Management Platform
 
-This project was built by following the Next.js tutorial available at https://youtu.be/wm5gMKuwSYk?si=UvguLVKhW-VUVRxt. You can log in with your Google account, create, edit, and delete prompts, view them on your homepage along with other people's prompts, and log out.
+This project was built by following the Next.js tutorial available at https://youtu.be/wm5gMKuwSYk?si=UvguLVKhW-VUVRxt. You can log in with your Google account, create, edit, and delete prompts, view them on your homepage along with other people's prompts, and log out. This project is deployed on Vercel at https://next-js-promptopia-1ry6nrqls-anisha-islams-projects.vercel.app.
 
 ## Getting Started
 
