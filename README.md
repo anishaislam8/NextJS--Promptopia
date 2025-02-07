@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This project was built by following the Next.js tutorial available at https://youtu.be/wm5gMKuwSYk?si=UvguLVKhW-VUVRxt. You can log in with your Google account, create, edit, and delete prompts, view them on your homepage along with other people's prompts, and log out.
+# Promptopia - A Prompt Management Platform
+
+This project was built by following the Next.js tutorial available at https://youtu.be/wm5gMKuwSYk?si=UvguLVKhW-VUVRxt. You can log in with your Google account, create, edit, and delete prompts, view them on your homepage along with other people's prompts, and log out.
 
 ## Getting Started
 
